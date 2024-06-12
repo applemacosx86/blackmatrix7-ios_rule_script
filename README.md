@@ -1,4 +1,4 @@
-# Rules And Scripts （）
+# Rules And Scripts
 
 ## 前言
 
