@@ -12,15 +12,14 @@ Steam规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-06-03 02:09:53
+最后更新时间：2024-12-18 02:12:14
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 1  | 
 | DOMAIN-KEYWORD | 3  | 
-| DOMAIN-SUFFIX | 36  | 
-| TOTAL | 40  | 
+| DOMAIN-SUFFIX | 51  | 
+| TOTAL | 54  | 
 
 
 ## Surge 

@@ -15,16 +15,16 @@
 
 ## 规则统计
 
-最后更新时间：2024-06-03 02:09:53
+最后更新时间：2024-12-18 02:12:13
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 9  | 
+| DOMAIN | 8  | 
 | DOMAIN-KEYWORD | 4  | 
-| DOMAIN-SUFFIX | 524  | 
+| DOMAIN-SUFFIX | 539  | 
 | IP-CIDR | 46  | 
-| TOTAL | 583  | 
+| TOTAL | 597  | 
 
 
 ## Clash 
@@ -112,7 +112,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Xbox.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Nintendo.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list
-- https://ruleset.isagood.day/global_game.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

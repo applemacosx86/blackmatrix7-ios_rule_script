@@ -12,7 +12,7 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-06-10 02:11:02
+最后更新时间：2025-02-20 02:14:02
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -20,8 +20,8 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST | 133  | 
 | HOST-KEYWORD | 4  | 
 | HOST-SUFFIX | 123  | 
-| IP-CIDR | 4  | 
-| TOTAL | 264  | 
+| IP-CIDR | 3  | 
+| TOTAL | 263  | 
 
 
 ## QuantumultX 
@@ -64,7 +64,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《PT下载》的数据来自以下链接，如与本项目的《PT下载》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PrivateTracker.list
-- https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/PrivateTracker.list
 - https://trackerslist.com/all.txt
 - https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/PrivateTracker.yaml

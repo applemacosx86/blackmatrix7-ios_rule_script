@@ -1,7 +1,7 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-02 02:11:59
+# UPDATED: 2024-11-17 02:13:14
 # HOST: 15
 # HOST-KEYWORD: 9
 # HOST-SUFFIX: 3585
@@ -581,7 +581,6 @@ HOST-SUFFIX,bocim.com,ChinaNoMedia
 HOST-SUFFIX,bohejiasuqi.com,ChinaNoMedia
 HOST-SUFFIX,bojianger.com,ChinaNoMedia
 HOST-SUFFIX,bokecc.com,ChinaNoMedia
-HOST-SUFFIX,booking.com,ChinaNoMedia
 HOST-SUFFIX,boosj.com,ChinaNoMedia
 HOST-SUFFIX,bootcdn.net,ChinaNoMedia
 HOST-SUFFIX,bootcss.com,ChinaNoMedia
@@ -3477,6 +3476,7 @@ HOST-SUFFIX,yoyou.com,ChinaNoMedia
 HOST-SUFFIX,ypppt.com,ChinaNoMedia
 HOST-SUFFIX,yqb.com,ChinaNoMedia
 HOST-SUFFIX,yrz.name,ChinaNoMedia
+HOST-SUFFIX,ysepay.com,ChinaNoMedia
 HOST-SUFFIX,yslyhr.com,ChinaNoMedia
 HOST-SUFFIX,ysten.com,ChinaNoMedia
 HOST-SUFFIX,ytzq.com,ChinaNoMedia

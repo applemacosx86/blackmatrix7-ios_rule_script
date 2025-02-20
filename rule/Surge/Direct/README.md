@@ -15,17 +15,17 @@
 
 ## 规则统计
 
-最后更新时间：2024-06-02 02:10:56
+最后更新时间：2024-07-07 02:10:19
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 58  | 
+| DOMAIN | 56  | 
 | DOMAIN-KEYWORD | 35  | 
 | DOMAIN-SUFFIX | 129  | 
 | PROCESS-NAME | 36  | 
 | USER-AGENT | 1  | 
-| TOTAL | 259  | 
+| TOTAL | 257  | 
 
 
 ## Surge 
@@ -73,7 +73,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/WhiteList/WhiteList.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PublicDirectCDN.list
-- https://ruleset.isagood.day/direct.conf
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list
 
 
